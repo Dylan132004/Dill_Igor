@@ -2010,40 +2010,43 @@ political_decisions = {
 			} 
 		}
 	}
+
 #	reclaim_baltic_empire = {
 #		potential = {
 #			tag = SWE
-#			NOT = { has_country_flag = finland_abandoned }
-#			NOT = { has_country_flag = stormaktstiden }
-#			exists = NOR
-#			NOR = { 
-#				all_core = {
-#					NOT = { owned_by = SWE }
-#				}
-#			}		
+#			NOT = { has_country_flag = Buttsex }
 #		}
-#
 #		allow = {
 #			war = no
-#			invention = expansionism
-#			owns = 336 #Oulu - Northern Finland
-#			owns = 345 #Turku - Southern Finland
+#			nationalism_n_imperialism = 1
+#			SWE = {
+#				all_core = {
+#					OR = {
+#                       			owned_by = THIS	
+#                        			owner = {
+#                        	    			vassal_of = THIS
+#                            				war = no                       
+#			 			}
+#                			}
+#        			}
+#			}
+#	
+#
+#			NOT = { tag = SCA }
 #		}
 #
 #		effect = {
-#			set_country_flag = stormaktstiden
-#			remove_accepted_culture = norwegian
+#			THIS = { inherit = FIN }
 #			add_accepted_culture = estonian
-#			add_accepted_culture = north_german
-#			RUS_994 = {		#Ingria
-#				add_core = SWE
-#			}
+#			add_accepted_culture = latvian
+#		
 #			RUS_349 = {		#Estonia
 #				add_core = SWE
 #			}
 #			RUS_354 = {		#Latvia
 #				add_core = SWE
 #			}
+#			set_country_flag = Buttsex
 #		}
 #		ai_will_do = {
 #			factor = 1

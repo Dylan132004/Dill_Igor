@@ -6,7 +6,7 @@ province_event = {
 	id = 200012
 
 	trigger = {
-		year = 1860
+		year = 1950
 		or = {
 			province_id = 954			# Vinnitsa
 			province_id = 955			# Proskorov
@@ -66,7 +66,7 @@ province_event = {
 	id = 200013
 
 	trigger = {
-		year = 1860
+		year = 1950
 		or = {
 			province_id = 968			# Odessa
 			province_id = 958			# Kiev

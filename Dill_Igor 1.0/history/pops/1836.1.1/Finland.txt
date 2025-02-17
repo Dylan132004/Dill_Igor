@@ -91,7 +91,7 @@
     }
 
     farmers = {
-        culture = sami
+        culture = finnish
         religion = placeholder
         size = 750
     }

@@ -3,6 +3,7 @@ primary_culture = south_german
 culture = hungarian
 culture = czech
 culture = slovak
+culture = ashkenazi
 religion = placeholder
 government = absolute_monarchy
 plurality = 0.0

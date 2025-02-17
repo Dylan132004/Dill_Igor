@@ -96,7 +96,7 @@
     }
 
     farmers = {
-        culture = sami
+        culture = norwegian
         religion = placeholder
         size = 2000
     }

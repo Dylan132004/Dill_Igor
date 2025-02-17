@@ -315,31 +315,31 @@
 	}
 
 	aristocrats = {
-		culture = kachin
+		culture = tibetan
 		religion = placeholder
 		size = 750
 	}
 
 	clergymen = {
-		culture = kachin
+		culture = tibetan
 		religion = placeholder
 		size = 400
 	}
 
 	artisans = {
-		culture = kachin
+		culture = tibetan
 		religion = placeholder
 		size = 1950
 	}
 
 	soldiers = {
-		culture = kachin
+		culture = tibetan
 		religion = placeholder
 		size = 350
 	}
 
 	farmers = {
-		culture = kachin
+		culture = tibetan
 		religion = placeholder
 		size = 35550
 	}

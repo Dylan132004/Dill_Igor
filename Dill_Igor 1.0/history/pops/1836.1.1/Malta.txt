@@ -21,37 +21,37 @@
     }
 
     aristocrats = {
-        culture = maltese
+        culture = south_italian
         religion = placeholder
         size = 200
     }
 
     bureaucrats = {
-        culture = maltese
+        culture = south_italian
         religion = placeholder
         size = 50
     }
 
     clergymen = {
-        culture = maltese
+        culture = south_italian
         religion = placeholder
         size = 275
     }
 
     artisans = {
-        culture = maltese
+        culture = south_italian
         religion = placeholder
         size = 8000
     }
 
     soldiers = {
-        culture = maltese
+        culture = south_italian
         religion = placeholder
         size = 340
     }
 
     farmers = {
-        culture = maltese
+        culture = south_italian
         religion = placeholder
         size = 20475
     }

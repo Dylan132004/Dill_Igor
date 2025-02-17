@@ -718,19 +718,17 @@ fort = {
 
 naval_base = {    
 	type = naval_base
+	cost = 5000
 	goods_cost =
 	{
-		timber = 1600
-		lumber = 1200
-		cement = 1800
-		steel = 1400
-		explosives = 200
-		small_arms = 700
-		ammunition = 1000
-		artillery = 250
-		canned_food = 2800
+		timber = 800
+		lumber = 600
+		cement = 800
+		steel = 800
+		machine_parts = 60
 	}
 	time = 360
+	naval_capacity = 1
 	capital = yes
 	onmap = yes
 	port = yes
@@ -738,9 +736,9 @@ naval_base = {
 	max_level = 6
 	colonial_points = { 30 50 70 90 95 100 } #points at levels 1-6
 	province = yes
+    one_per_state = yes
 	colonial_range = 50
 	local_ship_build = -0.05
-	one_per_state = yes
 }
        
 railroad = {   

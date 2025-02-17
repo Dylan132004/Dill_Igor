@@ -5,6 +5,7 @@ culture = mashriqi
 culture = bulgarian
 culture = bosniak
 culture = kurdish
+culture = albanian
 religion = placeholder
 government = absolute_monarchy
 plurality = 25.0

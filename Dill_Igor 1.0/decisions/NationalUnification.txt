@@ -649,8 +649,6 @@ political_decisions = {
 			add_accepted_culture = danish
 			add_accepted_culture = norwegian
 			add_accepted_culture = finnish
-			add_accepted_culture = icelandic
-			add_accepted_culture = sami
 			SCH = { all_core = { remove_core = SCH add_core = SCA } }
 			DEN = { all_core = { remove_core = DEN add_core = SCA } }
 			SWE = { all_core = { remove_core = SWE add_core = SCA } }
@@ -679,35 +677,6 @@ political_decisions = {
 		}
 	}
 	
-	concede_finland = {
-		potential = {
-			tag = SWE
-			NOT = {
-				has_country_flag = Conceded_Finland
-			}
-		}
-		
-		allow = {
-		}
-		
-		effect = {
-			FIN = { all_core = { remove_core = SWE } }
-			prestige = 30
-			any_pop = {
-				militancy = -1
-			}
-			set_country_flag = Conceded_Finland
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					average_militancy = 4
-				}
-			}
-		}
-	}
 	
 	reichsland_elsass = {
 		potential = {
@@ -733,9 +702,9 @@ political_decisions = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Straﬂburg"
+				change_province_name = "Stra burg"
 				state_scope = {
-					change_region_name = "Elsaﬂ-Lothringen"
+					change_region_name = "Elsa -Lothringen"
 				}
 			}
 			prestige = 10

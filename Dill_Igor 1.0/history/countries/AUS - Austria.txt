@@ -2,6 +2,7 @@ capital = 619
 primary_culture = south_german
 culture = czech
 culture = slovak
+culture = ashkenazi
 religion = placeholder
 government = absolute_monarchy
 plurality = 25.0

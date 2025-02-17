@@ -1,7 +1,6 @@
 capital = 343
 primary_culture = finnish
 culture = swedish
-culture = sami
 religion = placeholder
 government = hms_government
 plurality = 25
