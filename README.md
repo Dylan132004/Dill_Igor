@@ -1,6 +1,7 @@
 Changelog:
 
   Dill Igor 1.0:
+  
 1. Removed Ukrainian Breadbasket
 2. Readded Naval Cap
 3. Made Arabia unformable
@@ -52,3 +53,9 @@ Changelog:
 49. Austria annexed and cored Krakow
 50. Made Yugoslavia unformable
 51. Removed unneccessary decisions that do nearly nothing
+
+  Dill Igor 2.0: (to-do list)
+  
+1. Remove Afro-American Accepted from Canada
+2. Remove Commonwealth core on Nolfolk Island in Jan 2nd startdate
+3. TBD
