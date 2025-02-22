@@ -60,4 +60,10 @@ Changelog:
   
 1. Remove Afro-American Accepted from Canada
 2. Remove Commonwealth core on Nolfolk Island in Jan 2nd startdate
-3. TBD
+3. Give Italy decision to core Malta
+4. Make Dalmatia a State connected to Istria
+5. Make Istria one State
+6. Keep a coastline tile in croatia state for Austria to keep same number of ports
+7. Merge New Croatia State and Slovenia
+8. Give Italy decision to core dalmatia if they own it
+9. TBD and not set in stone
