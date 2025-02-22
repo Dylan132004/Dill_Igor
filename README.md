@@ -53,6 +53,8 @@ Changelog:
 49. Austria annexed and cored Krakow
 50. Made Yugoslavia unformable
 51. Removed unneccessary decisions that do nearly nothing
+52. Removed Latvian core on Ingria
+53. Gave Aland Islands to Finland
 
   Dill Igor 2.0: (to-do list)
   
