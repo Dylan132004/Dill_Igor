@@ -66,4 +66,8 @@ Changelog:
 6. Keep a coastline tile in croatia state for Austria to keep same number of ports
 7. Merge New Croatia State and Slovenia
 8. Give Italy decision to core dalmatia if they own it
-9. TBD and not set in stone
+9. Give Commonwealth cores on Newfoundland
+10. Maybe expand ottoman accepted pops into Persia
+11. Maybe give Persia Azeri accepted again
+12. Expand Turkic and Azeri minoritys in Persia too
+13. TBD and not set in stone
