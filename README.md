@@ -56,18 +56,18 @@ Changelog:
 52. Removed Latvian core on Ingria
 53. Gave Aland Islands to Finland
 
-  Dill Igor 2.0: (to-do list)
+  Dill Igor 2.0: 
   
-1. Remove Afro-American Accepted from Canada
-2. Remove Commonwealth core on Nolfolk Island in Jan 2nd startdate
-3. Give Italy decision to core Malta
-4. Make Dalmatia a State connected to Istria
-5. Make Istria one State
-6. Keep a coastline tile in croatia state for Austria to keep same number of ports
-7. Merge New Croatia State and Slovenia
-8. Give Italy decision to core dalmatia if they own it
-9. Give Commonwealth cores on Newfoundland
-10. Maybe expand ottoman accepted pops into Persia
-11. Maybe give Persia Azeri accepted again
-12. Expand Turkic and Azeri minoritys in Persia too
-13. TBD and not set in stone
+1. Spain can core Portugal now
+2. Made Dalmatia a seperate state from Croatia
+3. Made Istria merge with the smaller state next to it
+4. Italy Can core Dalmatia and Malta
+5. Made Mazowieckie 1 tile bigger
+6. Made Brest lose and gain 1 province
+7. Made Minsk lose 1 province and gain 2
+8. Made Smolensk a State from provinces of Kursk and Moscow
+9. Made Kursk 5 tiles smaller
+10. Made Moscow 2 tiles smaller
+11. Gave Elitsa one province from Tataria
+12. Made Azerbaijan merge with Armenia
+13. Baku has 43 liverating because funny
