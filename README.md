@@ -71,3 +71,17 @@ Changelog:
 11. Gave Elitsa one province from Tataria
 12. Made Azerbaijan merge with Armenia
 13. Baku has 43 liverating because funny
+
+Dill Igor 3.0
+
+1. Added Austrian Montenegro into Dalmatia
+2. Switched 2 province between Alfold and Western Siebenburgen
+3. Removed one province from Mazowieckie and gave it to Brest
+4. Removed New Jersey from New York and gave it to Pennsylvania
+5. Merged West Virginia into Virginia
+6. Removed China's alliance from Korea (So noobs don't die)
+7. Removed the Usa from the South American Immigrant Cycle
+8. Removed Revanchism decreasing immigrant attraction
+9. Removed 2/3rds of China's pops
+10. Removed Chinese cores from their puppets
+11.
