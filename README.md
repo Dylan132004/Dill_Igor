@@ -84,4 +84,10 @@ Dill Igor 3.0
 8. Removed Revanchism decreasing immigrant attraction
 9. Removed 2/3rds of China's pops
 10. Removed Chinese cores from their puppets
-11.
+11. Merged North and South Dakota
+12. Merged Washington and Oregon
+13. Merged Montana, Wyoming and Idaho
+14. Merged Kansas and Nebraska
+15. Merged New Mexico and Arizona
+16. Removed Boer accepted from the Commonwealth
+17. The Uk owns South Africa regardless of start date now
