@@ -91,3 +91,12 @@ Dill Igor 3.0
 15. Merged New Mexico and Arizona
 16. Removed Boer accepted from the Commonwealth
 17. The Uk owns South Africa regardless of start date now
+18. Added Ukraine Culture cores to Austria
+19. Added Romanian Culture cores to Austria
+20. Made Siebenburgen primary Romanian
+21. Added Slovene cores to 2 provinces in Istria
+22. Removed 1 Venice core from Istria
+23. Added 3 Trieste cores to Istria
+24. Added Russian Cores to Budjak
+25. Removed Spain Decision to core Portugal
+26. Changed the Province Shape of 2 provinces in Istria
