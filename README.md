@@ -100,3 +100,5 @@ Dill Igor 3.0
 24. Added Russian Cores to Budjak
 25. Removed Spain Decision to core Portugal
 26. Changed the Province Shape of 2 provinces in Istria
+27. Max Naval spending is 50% now
+28. Buffed Russian Liferating to 37 in Poland, Belarus, and the Baltic Countries (Make up for no Breadbasket)
