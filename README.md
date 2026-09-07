@@ -102,3 +102,5 @@ Dill Igor 3.0
 26. Changed the Province Shape of 2 provinces in Istria
 27. Max Naval spending is 50% now
 28. Buffed Russian Liferating to 37 in Poland, Belarus, and the Baltic Countries (Make up for no Breadbasket)
+29. Made Latvia and Estonia one state
+30. Added a port to Lithuania
