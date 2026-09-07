@@ -104,3 +104,4 @@ Dill Igor 3.0
 28. Buffed Russian Liferating to 37 in Poland, Belarus, and the Baltic Countries (Make up for no Breadbasket)
 29. Made Latvia and Estonia one state
 30. Added a port to Lithuania
+31. Readded a East Friesland state
