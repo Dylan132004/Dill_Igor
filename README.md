@@ -56,18 +56,53 @@ Changelog:
 52. Removed Latvian core on Ingria
 53. Gave Aland Islands to Finland
 
-  Dill Igor 2.0: (to-do list)
+  Dill Igor 2.0: 
   
-1. Remove Afro-American Accepted from Canada
-2. Remove Commonwealth core on Nolfolk Island in Jan 2nd startdate
-3. Give Italy decision to core Malta
-4. Make Dalmatia a State connected to Istria
-5. Make Istria one State
-6. Keep a coastline tile in croatia state for Austria to keep same number of ports
-7. Merge New Croatia State and Slovenia
-8. Give Italy decision to core dalmatia if they own it
-9. Give Commonwealth cores on Newfoundland
-10. Maybe expand ottoman accepted pops into Persia
-11. Maybe give Persia Azeri accepted again
-12. Expand Turkic and Azeri minoritys in Persia too
-13. TBD and not set in stone
+1. Spain can core Portugal now
+2. Made Dalmatia a seperate state from Croatia
+3. Made Istria merge with the smaller state next to it
+4. Italy Can core Dalmatia and Malta
+5. Made Mazowieckie 1 tile bigger
+6. Made Brest lose and gain 1 province
+7. Made Minsk lose 1 province and gain 2
+8. Made Smolensk a State from provinces of Kursk and Moscow
+9. Made Kursk 5 tiles smaller
+10. Made Moscow 2 tiles smaller
+11. Gave Elitsa one province from Tataria
+12. Made Azerbaijan merge with Armenia
+13. Baku has 43 liverating because funny
+
+Dill Igor 3.0
+
+1. Added Austrian Montenegro into Dalmatia
+2. Switched 2 province between Alfold and Western Siebenburgen
+3. Removed one province from Mazowieckie and gave it to Brest
+4. Removed New Jersey from New York and gave it to Pennsylvania
+5. Merged West Virginia into Virginia
+6. Removed China's alliance from Korea (So noobs don't die)
+7. Removed the Usa from the South American Immigrant Cycle
+8. Removed Revanchism decreasing immigrant attraction
+9. Removed 2/3rds of China's pops
+10. Removed Chinese cores from their puppets
+11. Merged North and South Dakota
+12. Merged Washington and Oregon
+13. Merged Montana, Wyoming and Idaho
+14. Merged Kansas and Nebraska
+15. Merged New Mexico and Arizona
+16. Removed Boer accepted from the Commonwealth
+17. The Uk owns South Africa regardless of start date now
+18. Added Ukraine Culture cores to Austria
+19. Added Romanian Culture cores to Austria
+20. Made Siebenburgen primary Romanian
+21. Added Slovene cores to 2 provinces in Istria
+22. Removed 1 Venice core from Istria
+23. Added 3 Trieste cores to Istria
+24. Added Russian Cores to Budjak
+25. Removed Spain Decision to core Portugal
+26. Changed the Province Shape of 2 provinces in Istria
+27. Max Naval spending is 50% now
+28. Buffed Russian Liferating to 37 in Poland, Belarus, and the Baltic Countries (Make up for no Breadbasket)
+29. Made Latvia and Estonia one state
+30. Added a port to Lithuania
+31. Readded a East Friesland state
+32. Massive Naval rework (too tired to write it all down)
