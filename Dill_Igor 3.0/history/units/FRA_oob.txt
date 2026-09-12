@@ -1,0 +1,1214 @@
+#Sphere of Influence
+BEL = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+LUX = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+NET = {
+	value = -100
+		#relation
+
+	level = 3
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+PAP = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+SIC = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+SWI = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+SAR = {
+	value = 125		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+GRE = {
+	value = 75	#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 10
+}
+ENG = {
+	value = 0
+}
+RUS = {
+	value = -75
+}
+AUS = {
+	value = 0
+}
+USA = {
+	value = 50
+}
+PRU = {
+	value = -25
+}
+TUR = {
+	value = 0
+}
+SPA = {
+	value = 55
+}
+BRZ = {
+	value = 75
+}
+
+leader = {
+	name = "Jean-Baptiste Drouet"
+	picture = fra_gen_drouet
+	date = 1803.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Bertrand Clauzel"
+	picture = fra_gen_clauzel
+	date = 1803.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Honor  Reille"
+	picture = fra_gen_reille
+	date = 1807.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Louis-Isidore Harispe"
+	picture = fra_gen_harispe
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Guillaume Dode"
+	picture = fra_gen_dode
+	date = 1809.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Guy-Victor Duperr "
+	picture = fra_adm_duperre
+	date = 1811.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Jacques Achard"
+	picture = fra_gen_achard
+	date = 1823.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Henri de Castelanne"
+	picture = fra_gen_castelanne
+	date = 1823.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Jean-Baptiste Vaillant"
+	picture = fra_gen_vaillant
+	date = 1832.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Bernard Magnan"
+	picture = fra_gen_magnan
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Thomas Bugeaud"
+	picture = fra_gen_bugeaud
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Louis Baraguey d'Hilliers"
+	picture = fra_gen_baraguey
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Charles Baudin"
+	picture = fra_adm_baudin
+	date = 1836.1.1 #1838
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "Garde Royale"
+	location = 425
+	regiment = {
+		name= "1.Garde Royale"
+		type = hussar
+		home = 425
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = infantry
+		home = 426
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = infantry
+		home = 427
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = infantry
+		home = 440
+	}
+	
+	regiment = {
+		name= "1.Cavalerie de la Garde"
+		type = infantry
+		home = 458
+	}
+
+	regiment = {
+		name= "2.Cavalerie de la Garde"
+		type = artillery
+		home = 420
+	}
+
+	regiment = {
+		name= "3.Cavalerie de la Garde"
+		type = artillery
+		home = 418
+	}
+
+	regiment = {
+		name= "4.Cavalerie de la Garde"
+		type = artillery
+		home = 406
+	}
+	
+	regiment = {
+		name= "1.2 me Division"
+		type = artillery
+		home = 451
+	}
+	
+	regiment = {
+		name= "1.3 me Division"
+		type = artillery
+		home = 447
+	}
+}
+army = {
+	name = "1 re Arm e"
+	location = 438
+	regiment = {
+		name= "1.1 re Division d'Infanterie"
+		type = hussar
+		home = 438
+	}
+
+	regiment = {
+		name= "2.1 re Division d'Infanterie"
+		type = infantry
+		home = 400
+	}
+
+	regiment = {
+		name= "3.1 re Division d'Infanterie"
+		type = infantry
+		home = 401
+	}
+
+	regiment = {
+		name= "1.2 me Division d'Infanterie"
+		type = infantry
+		home = 441
+	}
+
+	regiment = {
+		name= "2.2 me Division d'Infanterie"
+		type = infantry
+		home = 2570
+	}
+
+	regiment = {
+		name= "3.2 me Division d'Infanterie"
+		type = artillery
+		home = 404
+	}
+
+	regiment = {
+		name= "1.3 me Division d'Infanterie"
+		type = artillery
+		home = 402
+	}
+
+	regiment = {
+		name= "2.3 me Division d'Infanterie"
+		type = artillery
+		home = 403
+	}
+
+	regiment = {
+		name= "3.3 me Division d'Infanterie"
+		type = artillery
+		home = 399
+	}
+	
+	regiment = {
+		name= "1.10 me Division d'Infanterie"
+		type = artillery
+		home = 411
+	}
+}
+	
+army = {
+	name = "Arm e d'Algerie"
+	location = 407
+	regiment = {
+		name= "1.4 me Division d'Infanterie"
+		type = hussar
+		home = 425
+	}
+
+	regiment = {
+		name= "2.4 me Division d'Infanterie"
+		type = infantry
+		home = 423
+	}
+
+	regiment = {
+		name= "3.4 me Division d'Infanterie"
+		type = infantry
+		home = 432
+	}
+
+	regiment = {
+		name= "1.5 me Division d'Infanterie"
+		type = infantry
+		home = 439
+	}
+
+	regiment = {
+		name= "2.5 me Division d'Infanterie"
+		type = infantry
+		home = 433
+	}
+
+	regiment = {
+		name= "3.5 me Division d'Infanterie"
+		type = artillery
+		home = 431
+	}
+
+	regiment = {
+		name= "1.6 me Division d'Infanterie"
+		type = artillery
+		home = 429
+	}
+
+	regiment = {
+		name= "2.6 me Division d'Infanterie"
+		type = artillery
+		home = 442
+	}
+
+	regiment = {
+		name= "3.6 me Division d'Infanterie"
+		type = artillery
+		home = 459
+	}
+	
+	regiment = {
+		name= "1.1 me Division"
+		type = artillery
+		home = 1700
+	}
+}
+army = {
+	name = "7 me Division d'Infanterie"
+	location = 435
+	regiment = {
+		name= "1.7 me Division d'Infanterie"
+		type = hussar
+		home = 415
+	}
+
+	regiment = {
+		name= "2.7 me Division d'Infanterie"
+		type = infantry
+		home = 416
+	}
+
+	regiment = {
+		name= "3.7 me Division d'Infanterie"
+		type = infantry
+		home = 417
+	}
+
+	regiment = {
+		name= "1.1 re Division de cavalerie"
+		type = infantry
+		home = 422
+	}
+
+	regiment = {
+		name= "2.1 re Division de cavalerie"
+		type = infantry
+		home = 436
+	}
+
+	regiment = {
+		name= "3.1 re Division de cavalerie"
+		type = artillery
+		home = 421
+	}
+	
+	regiment = {
+		name= "3.10 me Division d'Infanterie"
+		type = artillery
+		home = 444
+	}
+
+	regiment = {
+		name= "1.11 me Division d'Infanterie"
+		type = artillery
+		home = 467
+	}
+
+	regiment = {
+		name= "2.11 me Division d'Infanterie"
+		type = artillery
+		home = 454
+	}
+
+	regiment = {
+		name= "3.11 me Division d'Infanterie"
+		type = artillery
+		home = 428
+	}
+
+}
+
+army = {
+	name = "Force d'intervention Espagnole"
+	location = 458
+	regiment = {
+		name= "1.8 me Division d'Infanterie"
+		type = hussar
+		home = 455
+	}
+
+	regiment = {
+		name= "2.8 me Division d'Infanterie"
+		type = infantry
+		home = 457
+	}
+
+	regiment = {
+		name= "3.8 me Division d'Infanterie"
+		type = infantry
+		home = 473
+	}
+
+	regiment = {
+		name= "1.9 me Division d'Infanterie"
+		type = infantry
+		home = 456
+	}
+
+	regiment = {
+		name= "2.9 me Division d'Infanterie"
+		type = infantry
+		home = 470
+	}
+
+	regiment = {
+		name= "3.9 me Division d'Infanterie"
+		type = artillery
+		home = 434
+	}
+
+	regiment = {
+		name= "1.2 me Division de cavalerie"
+		type = artillery
+		home = 462
+	}
+
+	regiment = {
+		name= "2.2 me Division de cavalerie"
+		type = artillery
+		home = 463
+	}
+
+	regiment = {
+		name= "3.2 me Division de cavalerie"
+		type = artillery
+		home = 460
+	}
+	
+	regiment = {
+		name= "2.10 me Division d'Infanterie"
+		type = artillery
+		home = 407
+	}
+}
+
+army = {
+	name = "Force d'intervention Italia"
+	location = 467
+	regiment = {
+		name= "1.8 me Division d'Infanterie"
+		type = hussar
+		home = 461
+	}
+
+	regiment = {
+		name= "2.8 me Division d'Infanterie"
+		type = infantry
+		home = 449
+	}
+
+	regiment = {
+		name= "3.8 me Division d'Infanterie"
+		type = infantry
+		home = 453
+	}
+
+	regiment = {
+		name= "1.9 me Division d'Infanterie"
+		type = infantry
+		home = 448
+	}
+
+	regiment = {
+		name= "2.9 me Division d'Infanterie"
+		type = infantry
+		home = 452
+	}
+
+	regiment = {
+		name= "3.9 me Division d'Infanterie"
+		type = artillery
+		home = 430
+	}
+
+	regiment = {
+		name= "1.2 me Division de cavalerie"
+		type = artillery
+		home = 446
+	}
+
+	regiment = {
+		name= "2.2 me Division de cavalerie"
+		type = artillery
+		home = 414
+	}
+
+	regiment = {
+		name= "3.2 me Division de cavalerie"
+		type = artillery
+		home = 408
+	}
+	
+	regiment = {
+		name= "2.10 me Division d'Infanterie"
+		type = artillery
+		home = 424
+	}
+}
+
+army = {
+	name = "Force d'intervention d'Algerie"
+	location = 1701
+	regiment = {
+		name= "1.8 me Division d'Infanterie"
+		type = hussar
+		home = 418
+	}
+
+	regiment = {
+		name= "2.8 me Division d'Infanterie"
+		type = infantry
+		home = 418
+	}
+
+	regiment = {
+		name= "3.8 me Division d'Infanterie"
+		type = infantry
+		home = 418
+	}
+
+	regiment = {
+		name= "1.9 me Division d'Infanterie"
+		type = infantry
+		home = 425
+	}
+
+	regiment = {
+		name= "2.9 me Division d'Infanterie"
+		type = infantry
+		home = 425
+	}
+
+	regiment = {
+		name= "3.9 me Division d'Infanterie"
+		type = artillery
+		home = 425
+	}
+
+	regiment = {
+		name= "1.2 me Division de cavalerie"
+		type = artillery
+		home = 425
+	}
+
+	regiment = {
+		name= "2.2 me Division de cavalerie"
+		type = artillery
+		home = 458
+	}
+
+	regiment = {
+		name= "3.2 me Division de cavalerie"
+		type = artillery
+		home = 458
+	}
+	
+	regiment = {
+		name= "2.10 me Division d'Infanterie"
+		type = artillery
+		home = 458
+	}
+}
+
+army = {
+	name = "Force d'Marine"
+	location = 420
+	regiment = {
+		name= "1.8 me Division d'Infanterie"
+		type = hussar
+		home = 432
+	}
+
+	regiment = {
+		name= "2.8 me Division d'Infanterie"
+		type = infantry
+		home = 432
+	}
+
+	regiment = {
+		name= "3.8 me Division d'Infanterie"
+		type = infantry
+		home = 432
+	}
+
+	regiment = {
+		name= "1.9 me Division d'Infanterie"
+		type = infantry
+		home = 447
+	}
+
+	regiment = {
+		name= "2.9 me Division d'Infanterie"
+		type = infantry
+		home = 447
+	}
+
+	regiment = {
+		name= "3.9 me Division d'Infanterie"
+		type = artillery
+		home = 447
+	}
+
+	regiment = {
+		name= "1.2 me Division de cavalerie"
+		type = artillery
+		home = 454
+	}
+
+	regiment = {
+		name= "2.2 me Division de cavalerie"
+		type = artillery
+		home = 454
+	}
+
+	regiment = {
+		name= "3.2 me Division de cavalerie"
+		type = artillery
+		home = 454
+	}
+	
+	regiment = {
+		name= "2.10 me Division d'Infanterie"
+		type = artillery
+		home = 454
+	}
+}
+
+navy = {
+	name = "Escadre du Nord"
+	location = 420
+	
+	ship = {
+		name= "Duchesse de Berry"
+		type = frigate
+	}
+
+	ship = {
+		name= "Th tis"
+		type = frigate
+	}
+
+	ship = {
+		name= "Astr e"
+		type = frigate
+	}
+
+	ship = {
+		name= "Amazone"
+		type = frigate
+	}
+
+	ship = {
+		name= "Clorinde"
+		type = frigate
+	}
+
+	ship = {
+		name= "Maure"
+		type = frigate
+	}
+
+	ship = {
+		name= "Vestale"
+		type = frigate
+	}
+
+	ship = {
+		name= "Magicienne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Marie Th rese"
+		type = frigate
+	}
+
+	ship = {
+		name= "Venus"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sir ne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Atalante"
+		type = frigate
+	}
+
+	ship = {
+		name= "Surveillante"
+		type = frigate
+	}
+
+	ship = {
+		name= "Iphig nie"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sultane"
+		type = frigate
+	}
+
+	ship = {
+		name= "1 re Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2 me Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3 me Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Triton"
+		type = manowar
+	}
+
+	ship = {
+		name= "Etats de Bourgogne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Souverain"
+		type = manowar
+	}
+
+	ship = {
+		name= "Marengo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ville de Marseilles"
+		type = manowar
+	}
+
+	ship = {
+		name= "Hercule"
+		type = manowar
+	}
+
+	ship = {
+		name= "Montebello "
+		type = manowar
+	}
+
+	ship = {
+		name= "Centaure"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jupiter"
+		type = manowar
+	}
+
+	ship = {
+		name= "Duc d Angouleme"
+		type = manowar
+	}
+
+	ship = {
+		name= "Hercules"
+		type = manowar
+	}
+
+	ship = {
+		name= "G n reux"
+		type = manowar
+	}
+
+	ship = {
+		name= "Diad me"
+		type = manowar
+	}
+
+	ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Suffren"
+		type = manowar
+	}
+
+	ship = {
+		name= "Trident"
+		type = manowar
+	}
+
+	ship = {
+		name= "Royal Louis "
+		type = manowar
+	}
+
+	ship = {
+		name= "Commerces de Paris"
+		type = manowar
+	}
+
+	ship = {
+		name= "Terpsichore"
+		type = frigate
+	}
+
+	ship = {
+		name= "Arth mise"
+		type = frigate
+	}
+
+	ship = {
+		name= "Belle Gabrielle"
+		type = frigate
+	}
+
+	ship = {
+		name= "Didon"
+		type = frigate
+	}
+
+	ship = {
+		name= "Caroline"
+		type = frigate
+	}
+
+	ship = {
+		name= "Herminie"
+		type = frigate
+	}
+
+	ship = {
+		name= "Melpom ne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Uranie"
+		type = frigate
+	}
+
+	ship = {
+		name= "Androm de"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jeanne d Arc"
+		type = frigate
+	}
+
+	ship = {
+		name= "Belle Poule"
+		type = frigate
+	}
+
+	ship = {
+		name= "Erigone"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nereide"
+		type = frigate
+	}
+
+	ship = {
+		name= "Gloire"
+		type = frigate
+	}
+
+	ship = {
+		name= "Reine Blanche"
+		type = frigate
+	}
+
+	ship = {
+		name= "4 me Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5 me Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6 me Flotille de Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "7 me Flotille de Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "8 me Flotille de Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "9 me Flotille de Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "10 me Flotille de Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Dvenadtsat' Apostolov"
+		type = manowar
+	}
+
+	ship = {
+		name= "Poltava"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ratnyi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Hiagudil"
+		type = manowar
+	}
+
+	ship = {
+		name= "Gangut"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ezekiel"
+		type = manowar
+	}
+
+	ship = {
+		name= "Tsar Konstantin"
+		type = manowar
+	}
+
+	ship = {
+		name= "Yaroslav"
+		type = manowar
+	}
+
+	ship = {
+		name= "Izyaslav"
+		type = manowar
+	}
+
+	ship = {
+		name= "Pravyi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Isidor"
+		type = manowar
+	}
+
+	ship = {
+		name= "Anapa"
+		type = manowar
+	}
+
+	ship = {
+		name= "Maria"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dimitri Donskoi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Paraskevia"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sv Ytoslav"
+		type = manowar
+	}
+
+	ship = {
+		name= "3. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Nord Adler"
+		type = manowar
+	}
+
+	ship = {
+		name= "Prints Gustav"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ne Tron Menya"
+		type = manowar
+	}
+
+	ship = {
+		name= "Svyastoslav"
+		type = manowar
+	}
+
+	ship = {
+		name= "Chrabryi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Smelyi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Tri Svyatitelei"
+		type = manowar
+	}
+
+	ship = {
+		name= "Yupiter"
+		type = manowar
+	}
+
+	ship = {
+		name= "Chesma"
+		type = manowar
+	}
+
+	ship = {
+		name= "Mironosets"
+		type = manowar
+	}
+
+	ship = {
+		name= "Asia"
+		type = manowar
+	}
+
+	ship = {
+		name= "Soshestvie Ducha"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sv Piotr Apostol"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tsar Konstantin"
+		type = frigate
+	}
+
+	ship = {
+		name= "Archipelag"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tickvinskaya Bogoroditsa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tosmanska"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nazareth"
+		type = frigate
+	}
+
+	ship = {
+		name= "Kronstadt"
+		type = frigate
+	}
+
+	ship = {
+		name= "1. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1. Transportnaya Flotiliya3"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya4"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1. Transportnaya Flotiliya5"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya6"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "1. Transportnaya Flotiliya7"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transportnaya Flotiliya8"
+		type = clipper_transport
+	}
+
+}
