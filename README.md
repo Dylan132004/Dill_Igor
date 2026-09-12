@@ -105,3 +105,4 @@ Dill Igor 3.0
 29. Made Latvia and Estonia one state
 30. Added a port to Lithuania
 31. Readded a East Friesland state
+32. Massive Naval rework (too tired to write it all down)
